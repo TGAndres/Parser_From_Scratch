@@ -1,1 +1,1 @@
-#Simple LR(0) parser made from scratch
+# Simple LR(0) parser made from scratch
