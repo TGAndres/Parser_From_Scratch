@@ -1,8 +1,4 @@
-
 import sys
-import networkx as nx
-import matplotlib.pyplot as plt
-
 # I N P U T:
 input_file = "input.txt"
 output_file = "output.txt"
