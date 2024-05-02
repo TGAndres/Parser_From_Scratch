@@ -1,0 +1,29 @@
+int longitud(string s){
+	return len(s);
+}
+
+int main( string args ){
+	long x = 10;
+	string y = "vacio";
+	#Lexer will delete this comment
+	if (x > 18){
+		y = longitud("esto es una literal");
+	}
+
+	if (x < 25){
+		y = repeat("palabras",3);
+	}else{
+		x = 1;
+	}
+
+	while( x > 1){
+		x = x - 1 ;
+	}
+
+	x = x / x;
+	x = x * x;
+	y = "String final";
+
+	int nueva_var;
+	return 0;
+}

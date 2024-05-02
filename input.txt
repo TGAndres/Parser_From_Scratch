@@ -1,0 +1,25 @@
+datatype id ( datatype id ) {
+	return id ( id ) ;
+}
+datatype id ( datatype id ) {
+	datatype id = const ;
+	datatype id = lit ;
+	if ( id rel const ) {
+		id = id ( lit ) ;
+	}
+	if ( id rel const ) {
+		id = id ( lit , const ) ;
+	}
+	else {
+		id = const ;
+	}
+
+	while ( id rel const ) {
+		id = id - const ;
+	}
+	id = id / id ;
+	id = id * id ;
+	id = lit ;
+	datatype id ;
+	return const ;
+}
